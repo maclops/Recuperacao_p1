@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calcular">Calcular</string>
+    <string name="m_dia_final">Média final:</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_1">Nota 1</string>
+</resources>
